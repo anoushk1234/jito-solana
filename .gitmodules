@@ -7,3 +7,6 @@
 [submodule "jito-protos/protos"]
 	path = jito-protos/protos
 	url = https://github.com/jito-labs/mev-protos.git
+[submodule "geyser-grpc-plugin"]
+	path = geyser-grpc-plugin
+	url = https://github.com/jito-foundation/geyser-grpc-plugin.git
